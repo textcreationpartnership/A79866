@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Master Clark defended: or, a vindication of two particular passages in the historical relation of the late Presbyterian General Assembly</title>
+            <author>An assured well-wisher of Mr. Clark.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79866</idno>
+            <idno type="STC">Wing C4462</idno>
+            <idno type="STC">ESTC R231489</idno>
+            <idno type="EEBO-CITATION">99897036</idno>
+            <idno type="PROQUEST">99897036</idno>
+            <idno type="VID">137044</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79866)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137044)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2459:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Master Clark defended: or, a vindication of two particular passages in the historical relation of the late Presbyterian General Assembly</title>
+                  <author>An assured well-wisher of Mr. Clark.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed by Wing to James Clark; signed at end: ... an assured well-wisher of Mr. Clark.</note>
+                  <note>Place of publication from Wing CD-ROM, 1996; dated at end: At Innerweek, Dec. 11. 1691.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Clark, James, 1660-1723 --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:137044:1"/>
+            <head>Maſter <hi>Clark</hi> Defended: Or, a Vindication of two particular Paſſages in the Hiſtorical Relation of the late <hi>Presbyterian General Aſſembly.</hi>
+            </head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>SOme few days ago I happened to ſee a Book, called, <hi>A ſecond Vindication of the Church of</hi> Scotland, where, among other Papers bound together, I found a Vindication of the late Aſſembly, from the Lies and Calumnious Aſperſions of a pitiful Pamphlet, called, <hi>An Hiſto<g ref="char:EOLhyphen"/>rical relation of the late Presbyterian General Aſſembly;</hi> In the which Vindication, as I was glan<g ref="char:EOLhyphen"/>cing through ſeveral Paſſages, there occurred ſomething anent Mr. <hi>Clark,</hi> or rather nothing anent Mr. <hi>Clark,</hi> with reſpect to his Vindication (ſaving that the Author ſays, Mr. <hi>Clark</hi> is able to defend himſelf) though he comes under the laſh of the railing Relator, as much as many others, whoſe Patronage and Defenſe, the Reverend and Learned Author un<g ref="char:EOLhyphen"/>dertakes, upon which when <hi>I</hi> made a pauſe, and conſidered that my Friend Mr. <hi>Clark</hi> a<g ref="char:EOLhyphen"/>lone is refuſed the benefit of the foreſaid Vindication, I forced my Pen to drop theſe follow<g ref="char:EOLhyphen"/>ing Lines of Supplement thereto. There is moreover another particular, that my mind prompts me to Vindicat, <hi>viz.</hi> The ſilly feckleſs Fetch that the witty Relator makes to diſ<g ref="char:EOLhyphen"/>parage Presbyterial Government, becauſe, as he gives out, the Trade of Book-ſelling is fallen ſince it had force and footing, and the reaſon why I take upon me to touch this Point is, in regard I have had perhaps more occaſion to know the myſtery of the Trade of Books than the Relator, as will eaſily appear by what follows; and I chooſe to ſay ſomewhat hereanent, ere <hi>I</hi> meddle further with Mr. <hi>Clark</hi>'s Concern. That I may then the more clearly acquit my ſelf herein, I will ſet down the Relator's own Words, and then offer a Reflection upon them; <hi>Pag:</hi> 49. ſays he<g ref="char:punc">▪</g> 
+               <q>The Trade of Books is fallen ſo low, ſince the Presbyterian Reign was ſet up, that our Stationers are thinking, either to quite their Em<g ref="char:EOLhyphen"/>ployments, or to go and live elſe where, for they have not made the Rent of their Shops theſe two years; the Epiſcopal are not in Circumſtances for buying, and the other crave no other Books, than <hi>Durham</hi> on the <hi>Canticles</hi> and <hi>Revelation, Dickſon</hi> and <hi>Hutcheſon, Dyer</hi> and <hi>Gray,</hi> theſe are their Claſſical Authors, and the ſtandard of their Learning;</q> Now as to this Alledgance of the decay of the Trade of Books, one Cauſe that our Rela<g ref="char:EOLhyphen"/>tor mentions is, the Epiſcopal are not in Circumſtances for buying, and I will add ano<g ref="char:EOLhyphen"/>ther Cauſe, both as good and true, <hi>viz.</hi> Though the Epiſcopal are not in Circumſtances for buying, yet I know, they are in Circumſtances for ſelling; ſo that the Stationers may juſtly blame them for the decay of their Trade, by taking their Trade over their head, for that ſome of them are ſelling off their Books, I aſſuredly know, having in my own Li<g ref="char:EOLhyphen"/>brary not a few, which I bought from them; and here I cannot paſs, that as of late, I was bargaining with one of that Brotherhood, for a parcel of his Books, but not agreeing, it ſeems he would needs have ſome of my Money, for when I happened to offer him two pence for the <hi>Weſtminſters</hi> Aſſemblies Confeſſion of Faith in Quarto ſtitched, beſides my expectation he took me at my word, for I was really reſolved to give more for it, if he had made more words; but what could move the Man to ſell his Confeſſion of Faith ſo cheap, I cannot conjecture, if he has not been very week in Purſe, or ſtrong in Reſoluti<g ref="char:EOLhyphen"/>on to part with it at any rate, leſt he ſhould be ſuſpected for too much Presbyterian, in
+<pb n="2" facs="tcp:137044:2"/>harbouring ſuch a Gueſt; Another Conſideration here is, it may be theſe Stationers of the Relator's acquaintance that he means of, are chiefly furniſhed with ſuch Books as pe<g ref="char:EOLhyphen"/>culiarly ſuit the Epiſcopal Guſt and Genius, ſuch as <hi>High flowen-holy-days</hi>-Sermons, com<g ref="char:EOLhyphen"/>poſed and fitted for <hi>Paſch, Yule,</hi> and ſuch high-times; and it is well known that the Preſ<g ref="char:EOLhyphen"/>byterians are not very fond of obſerving Apocryphal Holy-days, and ſo have not much need to buy theſe Writers; and <hi>I</hi> am alſo apt to believe, it muſt be only ſome Killicran<g ref="char:EOLhyphen"/>ky Stationers (to uſe the new faſhioned word) that the Relator means, with whom happly Presbyterians has not much converſe or commerce; he cannot ſurely mean all Stationers, and the ground of my gueſs is, he himſelf tells us, <hi>Pag.</hi> 60, <hi>That</hi> George Moſ<g ref="char:EOLhyphen"/>man the (<hi>Presbyterian</hi>) Stationer <hi>has ſo good a Trade, that hereby he is become fat every way;</hi> and I dare ſay, he means by one ſort of fatneſs, that he is grown rich, which is a very Na<g ref="char:EOLhyphen"/>tive reſult and product of a good Trade; I will not multiply here, but only cloſe with this one Reaſon more, why <hi>I</hi> think there may be ſome ground for Stationers to complain of the decay of their Trade, and that is, becauſe of the new way of vending Books by Auctioning, ſo that certainly Book-ſhopes will get the leſs to do, when there are ſo many Book-houſes. The other Cauſe that the Relator gives of the decay of the Stationers Trade, is, Presbyterians crave no other Books than <hi>Durham, Dickſon, Hutcheſon, Dyer, Gray,</hi> which is ſo bairnly a conceit, that it deſerves not any ſerious conſideration, but I wonder if this ratling Relator, has ſeen all Presbyterians Libraries, or if ever he ſaw any one Mi<g ref="char:EOLhyphen"/>niſters Library made up of no other Books than theſe he ſpeaks of, for my part I have had as much occaſion perhaps, to ſee both Epiſcopals and Presbyterians Libraries, as ſome of my Neighbours, and I have ſeen as conſiderable on the one hand, as on the other, either for quality or quantity; and I have alſo ſeen both of them having <hi>Durham, Dickson, Hut<g ref="char:EOLhyphen"/>cheſon, Dyer</hi> and <hi>Gray;</hi> and both better and wiſer men than he or I either, will ſay, that as to the Subjects they reſpectively handle, no man can be Maſter of better Books, what<g ref="char:EOLhyphen"/>ever this Scioliſt prat.</p>
+            <p>As for Mr. <hi>Clark's</hi> Sermon, that this Invidious Relator ſpeaks ſo diminutively, and contemptuouſly of, the ſtory of it is to be ſeen, <hi>Pag.</hi> 50. where he tells us, it was a Sermon <hi>ad Clerum,</hi> but on what ground this learned Clerk gives Mr. <hi>Clark</hi>'s Sermon this witty <hi>Motto,</hi> I cannot Divine, for it was not preached, either before a Synod, or Presbytery, or any kind of Convocation of the Clergy, except it may be ſome of the Epiſcopal Scouts in diſguiſe, were preſent when it was preached, who after the Popiſh Dialect, ſtick not to appropriat to themſelves the peculiar Title of the Clergy, but who knows but there is here an <hi>error Typographi,</hi> by omitting (<hi>verſus</hi>) a part of a word, for what if the Authentick Copy had, a Sermon <hi>adverſus Clerum,</hi> the tender-hearted Relator ſympathizing ſo far with the Depoſition of his dear Godly Brother as thereby to be ſtricken into a pannick fear, leaſt this kind of Treatment, was but a frightful fore-runner of more of the like <hi>Adverſus Clerum. Ibid.</hi> He tells us, <hi>That this Sermon was preached at the depoſing of the Parſon of</hi> Auld<g ref="char:EOLhyphen"/>hamſtocks, where the Hiſtorian fails in the truth of his Relation, for the above deſigned Parſon that he means by, ſome days before the preaching of the ſaid Sermon, had the Sentence of Depoſition, actually and judicially paſſed upon him by the Presbytry, and the occaſion of Mr. <hi>Clark</hi>'s preaching, was only to make intimation to the Paroch of <hi>Auld<g ref="char:EOLhyphen"/>hamſtocks,</hi> of the ſaid Presbyterial Sentence, he being ordered by the Presbytry ſo to do; next he comes to give his wonted beggarly Epithets to the ſaid Sermon, telling, <hi>There ne<g ref="char:EOLhyphen"/>ver appeared a more ſilly and empty Diſcourſe,</hi> but I hope theſe vain words will have ſmall weight, for diſparaging Mr. <hi>Clark,</hi> or rendring his Sermon contemptible, or ſuſpicious of Guilt this way, for it is evident throughout his Narrative, that with the ſame common
+<pb n="3" facs="tcp:137044:2"/>ſtile, he alſo laſhes others, of known undoubted Reputation, for Learning, Senſe and Eloquence. Hence <hi>pag:</hi> 19. He calls Doctor <hi>Rule</hi>'s Repreſentation of the Principles and Practices of Presbyterians, a weak empty Paper, full of contradictions, wherein Scrip<g ref="char:EOLhyphen"/>ture is groſſely wreſted, <hi>&amp;c.</hi> And <hi>pag:</hi> 18. He calls Mr. <hi>Simſon</hi>'s Sermon <hi>Presbyterian ſtuff courſe enough;</hi> But not to inſtance more particulars, there is, <hi>pag:</hi> 34. A general Paſſage of all the Sermons preached before the Commiſſioner, <hi>They were,</hi> ſays he, <hi>very nauſeating to all rational perſons, miſerably flat and dull;</hi> Yea and further, <hi>pag:</hi> 50. Leſt any ſhould think there was ſome that did not Preach before the Commiſſioner, as good at the Trade as they who did, he tells, <hi>Nothing can be expected from any of them, whatever Church they preach in, but noiſe and non-ſenſe, much bable and,</hi> it ſeems the Printer has thought ſhame to make his Types tell the reſt, for there is ſome ill-favoured word or another omitted; but that it may appear how Nonſenſical, Light and Looſe this Relator is, in what he vomits up ſo laviſhly, I think it not unworthy of obſervance, that from his own mouth it is clear, his foul-mouthed Epithets and Nicknames, are rather maliciouſly invented, than judici<g ref="char:EOLhyphen"/>ouſly applyed, for though this ratling Relator takes upon him with Thraſonick Confi<g ref="char:EOLhyphen"/>dence enough to ſpeak ſo much ill of Mr. <hi>Clark's</hi> Sermon, yet it ſeems he had not ſeen the ſaid Sermon, which he ſtudies ſo much to defame, for he tells it was a Sermon <hi>ad Clerum,</hi> as was ſaid; <hi>Said!</hi> By whom? not by Mr. <hi>Clark,</hi> not by Mr. <hi>Clark's</hi> Sermon: So if he miſcalls and reproaches Sermons, only upon what others ſay, without his own read<g ref="char:EOLhyphen"/>ing or hearing, I think no ſober Judicious Man will readily regard what ſuch a looſe ra<g ref="char:EOLhyphen"/>ving Writer ſays; and hereby further, the ſame thing is evident, for he tells, <hi>It was a Ser<g ref="char:EOLhyphen"/>mon preached,</hi> as was ſaid, <hi>at the Depoſition of the Parſon of</hi> Auldhamſtocks; What needs him ſay, <hi>it was ſaid ſo?</hi> When the very Title-Page of the ſaid Sermon (if he had but ſeen it) reads expreſly in theſe words, <hi>Preached on the occaſion of the Intimation of a Sentence of Depoſition,</hi> &amp;c. And ſeing he writes ſo looſely anent Mr. <hi>Clark's</hi> Sermon, it may be war<g ref="char:EOLhyphen"/>rantably ſuppoſed, that he is but a raving Romantick Scribler in other things too, which he groundleſly and falſely Relates; Another thing he ſays to the diſgracing of Mr. <hi>Clark's</hi> Sermon (as he miſconceives) is by telling, <hi>It was even far below Mr.</hi> Andrew Gray's <hi>Sermons;</hi> whereby I think indeed Mr. <hi>Clark</hi> is more obliged to the Relator than he is a<g ref="char:EOLhyphen"/>ware, for I dare ſay, there is no godly, exerciſed, or diſcerning Chriſtian, that ever pe<g ref="char:EOLhyphen"/>ruſed Mr. <hi>Gray's</hi> Sermons, but will readily give their Verdict of them, to be Excellent, Spiritual and Savory, ſo that though Mr. <hi>Clark's</hi> Sermon may be below Mr. <hi>Gray</hi>'s (which I believe he will eaſily grant himſelf) yet if in any tollerable degree it comes near to be like them, I think, <hi>pro tanto,</hi> it is to be prized and worthy of acceptation. In the next place he tells us, the very Presbyterians were aſhamed of it, I believe I have had as much occaſion to Converſe among Presbyterians as the Relator, and alſo have acci<g ref="char:EOLhyphen"/>dentally heard ſome vent their Sentiments anent the ſaid Sermon, yet I never heard or obſer<g ref="char:EOLhyphen"/>ved any of them expreſs in the leaſt, what imported a ſhadow of ſemblance to what is ſaid, (by this time I underſtand this mans Tongue is no Slander) but whether or not there be any thing in Mr. <hi>Clark</hi>'s Sermon, that either he, or any concerned in him needs to be aſhamed of, <hi>res ipſa loquatur,</hi> his Sermon is extant in Print, let it ſpeak for it ſelf, and let judicious ſober men ſpeak for or againſt the ſame as they find Cauſe; but I dare ſay, if there had been any thing in the ſaid Sermon that might be Carped at or juſtly Cenſured, the Relator would not have neglected to ſet off the ſame with a noiſe and thunder of inſulting trium<g ref="char:EOLhyphen"/>phal Reflections, but for all the evil he ſpeaks of Mr. <hi>Clark</hi>'s Sermon, he Quotes not one evll thing out of it, or the leaſt Paſſage that can be quarrelled, by which unfair, diſinge<g ref="char:EOLhyphen"/>nuous, and injurious Dealing, he is certainly a matter of Reproach to his Party, whoever
+<pb n="4" facs="tcp:137044:3"/>he be, but it ſeems though he is ſo fooliſh as groundleſly and openly to Reproach others yet herein he is ſo far Witty, as to conceal his Name, and ſo prevent his own Shame; for who knows but he may be an infamous perſon, lying under a publick Stigma for notorious Villanies; but though he were guilty of no more but the falſe Calumnies and Forgeries, where with his ridiculous Pamphlet is ſtuffed full, 'tis enough to make him infamous and odious among judicious and honeſt Men; and therefore he hath induſtriouſly Printed and Diſperſed his Fables and Romances among Strangers, who<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly not in the way of being un<g ref="char:EOLhyphen"/>deceived of his clandeſtine Miſ-repreſentations; but we uſe to ſay, <hi>Veritas non petit angulos,</hi> and <hi>I</hi> am ſorry (for <hi>I</hi> owne that I am very much obliged to the Engliſh) that this Relator has given occaſion to ſay, <hi>Falſitas petit Anglos,</hi> for our <hi>Scots</hi> Lies-Mongers pack them to <hi>England</hi> to Vend their Sophiſticat Wares, but to this ſort of Chapmen as our Pedling Re<g ref="char:EOLhyphen"/>lator is, <hi>I</hi> recommend to read what is ſaid, <hi>Iſa.</hi> 5.20, 21, 22, 23. <hi>Wo unto them that call evil good, and good evil,</hi> &amp;c. As to what this Hiſtorian ſays of my Lord <hi>Crafurd</hi> and the Printer, <hi>I</hi> perfectly know Mr. <hi>Clark</hi>'s knowledge herein, who has had the honour to be with my Lord <hi>Crafurd,</hi> and alſo occaſion to be with the Printer ſeveral times ſince the ſaid Sermon came to light, and yet he never heard a word from either of them, of any ſuch Buſſel before the Council, as the Relator pretends there was. He concludes at length, (for it ſeems he hath deſignedly and induſtriouſly enlarged againſt Mr. <hi>Clark</hi>) 'tis believed he ſhewed all the Learning and Eloquence he was maſter of in this Sermon; but I believe that godly Miniſters who project the Converſion of Souls to Chriſt, are not much ſtudious or perplex<g ref="char:EOLhyphen"/>ed, to make an Oſtentation of Humane Learning, or Busk their Diſcourſes with the Gauderies of Rhetorick or Romantick Strains, but rather according to the ſimplicity of the Goſpel of Chriſt, humbly and plainly preach Chriſt to the poor and ignorant, ſo as beſt to ſuit and accommodate their Capacities. But to our Point again, it's no wonder he ſpeaks diminu<g ref="char:EOLhyphen"/>tively of Mr. <hi>Clark</hi>'s Learning and Eloquence, when he dares <hi>perfricta fronte,</hi> to tell us of the learned Dr. <hi>Rule,</hi> the things he hath publiſhed diſcover no ſmall Ignorance, and that it appears his Learning is not great, <hi>Pag.</hi> 19. yea, and he tells us in general of all Presbyte<g ref="char:EOLhyphen"/>rians, <hi>Pag.</hi> 49. that Learning is not the Talent of a Presbyterian. As for what Learning this Anonymous Relator himſelf is Maſter of, I know not, for he will not let himſelf be known, but this <hi>I</hi> may confidently aver of him, that he declares himſelf ſufficiently guilty of that peice of Diabolical Learning that <hi>Jeremiah</hi> ſpeaks of, <hi>Cap.</hi> 9. <hi>ver.</hi> 5. —<hi>They will not ſpeak the truth, they have taught their tongue to ſpeak lies</hi>—. I add no more, but a Prayer for this Tongue-Perſecutor and Accuſer of the Brethren, <hi>The Lord rebuke thee, Satan.</hi> Thus much an Aſſured Well-wiſher of Mr. <hi>Clark.</hi>
+            </p>
+            <closer>
+               <dateline>At <hi>Innerweck,</hi> 
+                  <date>Dec. 11. 1691.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <p>If any pleaſes to have Mr. <hi>Clark</hi> Sermon, or this Defence of it, they may Call at <hi>James Wardlaw</hi> Stationer his Shop, on the North-ſide of the Street, oppoſite to the middle of the Lucken-Booths.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
